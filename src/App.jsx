@@ -10,6 +10,7 @@ function App() {
     setPeliculas([...peliculas, pelicula]);
   };
 
+  
   return (
     <div>
       <h1>Formulario de Peliculas</h1>
